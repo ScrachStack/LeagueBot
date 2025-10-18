@@ -1,0 +1,14 @@
+{
+  "name": "LeagueBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ScatchStack",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  }
+}
