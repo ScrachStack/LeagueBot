@@ -1,0 +1,68 @@
+{
+  "1387317737252196383": {
+    "channel": "1388272225307725905",
+    "message": "--embed Welcome ${member} to **${guild.name}**! You're our ${guild.memberCount}th member.",
+    "staffRoleId": "1387534577106550815"
+  },
+  "1385291782715084820": {
+    "channel": "1385293997068648479",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members.",
+    "staffRoleId": "1385293942479650887",
+    "antiMentionUserIds": [
+      "805142678957719552",
+      "527301062017810433",
+      "1388676597997113405"
+    ],
+    "antiMentionWhitelist": [
+      "957105472501075988",
+      "805142678957719552",
+      "291201172180697089",
+      "429586908692348951",
+      "527301062017810433",
+      "1177330839755952285"
+    ]
+  },
+  "1388331608691572796": {
+    "channel": "1388331609790615640",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members."
+  },
+  "1307606937738809344": {
+    "channel": "1307606939211137033",
+    "message": "--embed Welcome ${member} we now have ${guild.memberCount} Members.",
+    "staffRoleId": "1307606937784815634"
+  },
+  "1301302038461943879": {
+    "channel": "1301302039262920795",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members."
+  },
+  "1119734000974565439": {
+    "channel": "1388655697004199966",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members.",
+    "staffRoleId": "1388655489344344217",
+    "antiMentionUserIds": []
+  },
+  "1129386849098551360": {
+    "channel": "1130513628978749471",
+    "message": "hi"
+  },
+  "1129386980405411871": {
+    "channel": "1300990593069088769",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members."
+  },
+  "1193299915825229845": {
+    "channel": "1193299917922373838",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members."
+  },
+  "1390036422894944406": {
+    "channel": "1390061218961686598",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members."
+  },
+  "1391116105472540802": {
+    "channel": "1391251967698796644",
+    "message": "--embed Welcome ${member} to ${guild.name} We now have ${guild.memberCount} Members."
+  },
+  "1407411383452045403": {
+    "channel": "1409583338032730173",
+    "message": "--embed ${member} Has Joined."
+  }
+}
